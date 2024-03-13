@@ -1,11 +1,11 @@
-package com.article.utils;
+package com.review.utils;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class txtUtils {
+public class TxtUtils {
     /**
      * 读取文件
      * @param filePath 目标文件路径

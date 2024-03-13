@@ -1,6 +1,6 @@
-package com.article.utils;
+package com.review.utils;
 
-public class hammingUtils {
+public class HammingUtils {
     /**
      * 计算两个SimHash值的海明距离
      *
