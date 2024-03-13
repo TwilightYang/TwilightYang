@@ -34,10 +34,6 @@ public class Main {
         String simHash1 = HashUtils.getSimHash(str1);
         // 求相似度
         double similarity = HammingUtils.calculateSimilarity(simHash0, simHash1);
-//        System.out.println(similarity);
-//        BigDecimal temp = new BigDecimal(similarity);
-//        double similarityTwo = temp.setScale(2, BigDecimal.ROUND_HALF_UP).doubleValue();
-//        System.out.println(similarityTwo);
         // 相似度写入结果文件
         TxtUtils.writeFile(similarity, answerFile);
 

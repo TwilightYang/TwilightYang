@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="测试文件，修改函数">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/ExceptionUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/HammingUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/HashUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/TxtUtilsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/review/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/utils/ExceptionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/ExceptionUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/utils/HammingUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/HammingUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +159,7 @@
       <workItem from="1710309059654" duration="2477000" />
       <workItem from="1710311649956" duration="6884000" />
       <workItem from="1710325931205" duration="154000" />
-      <workItem from="1710330641610" duration="3176000" />
+      <workItem from="1710330641610" duration="4393000" />
     </task>
     <task id="LOCAL-00001" summary="源文件">
       <created>1710309242220</created>
@@ -176,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710309242220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试文件，修改函数">
+      <created>1710337874372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710337874372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,17 +185,6 @@
     <MESSAGE value="源文件" />
     <MESSAGE value="测试文件，修改函数" />
     <option name="LAST_COMMIT_MESSAGE" value="测试文件，修改函数" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/paper$TxtUtilsTest.ic" NAME="TxtUtilsTest 覆盖结果" MODIFIED="1710319451207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
