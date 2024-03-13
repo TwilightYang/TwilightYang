@@ -4,25 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/review/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/ExceptionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/HammingUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/TxtUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="测试文件，修改函数">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/ExceptionUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/HammingUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/HashUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/review/utils/TxtUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/article/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/article/utils/hammingUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/article/utils/hashUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/article/utils/txtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/utils/ExceptionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/ExceptionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/utils/HammingUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/HammingUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\desktop\Software\TwilightYang\3222004727\paper\htmlReport" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,7 +61,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.review.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.Main" />
       <module name="paper" />
@@ -74,9 +80,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExceptionUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.review.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.review.utils.ExceptionUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionUtilsTest.exceptionTest0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.review.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.review.utils.ExceptionUtilsTest" />
+      <option name="METHOD_NAME" value="exceptionTest0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.review" />
+      <option name="MAIN_CLASS_NAME" value="com.review.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.mainTestAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.review" />
+      <option name="MAIN_CLASS_NAME" value="com.review.MainTest" />
+      <option name="METHOD_NAME" value="mainTestAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="应用程序.Main" />
+        <item itemvalue="JUnit.MainTest.mainTestAll" />
+        <item itemvalue="JUnit.ExceptionUtilsTest" />
+        <item itemvalue="JUnit.ExceptionUtilsTest.exceptionTest0" />
       </list>
     </recent_temporary>
   </component>
@@ -92,10 +164,61 @@
       <workItem from="1710296256300" duration="458000" />
       <workItem from="1710304065467" duration="1696000" />
       <workItem from="1710308734868" duration="209000" />
+      <workItem from="1710309059654" duration="2477000" />
+      <workItem from="1710311649956" duration="6884000" />
+      <workItem from="1710325931205" duration="154000" />
+      <workItem from="1710330641610" duration="3176000" />
     </task>
+    <task id="LOCAL-00001" summary="源文件">
+      <created>1710309242220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710309242220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="源文件" />
+    <MESSAGE value="测试文件，修改函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试文件，修改函数" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/review/utils/HashUtils.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/paper$TxtUtilsTest.ic" NAME="TxtUtilsTest 覆盖结果" MODIFIED="1710319451207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$ExceptionUtilsTest_exceptionTest0.ic" NAME="ExceptionUtilsTest.exceptionTest0 覆盖结果" MODIFIED="1710323444240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$ExceptionUtilsTest.ic" NAME="ExceptionUtilsTest 覆盖结果" MODIFIED="1710323463220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$MainTest_mainTestAll.ic" NAME="MainTest.mainTestAll 覆盖结果" MODIFIED="1710330953988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$HashUtilsTest.ic" NAME="HashUtilsTest 覆盖结果" MODIFIED="1710321065118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$TxtUtilsTest_readTestErr.ic" NAME="TxtUtilsTest.readTestErr 覆盖结果" MODIFIED="1710319381335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$HammingUtilsTest.ic" NAME="HammingUtilsTest 覆盖结果" MODIFIED="1710322142679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.utils.*</FILTER>
+    </SUITE>
   </component>
 </project>

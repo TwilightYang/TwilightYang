@@ -5,9 +5,5 @@ public class ExceptionUtils extends RuntimeException {
         public ExceptionUtils(String message) {
             super(message);
         }
-        // 构造函数：带消息和引起此异常的原因
-        public ExceptionUtils(String message, Throwable cause) {
-            super(message, cause);
-        }
 }
 

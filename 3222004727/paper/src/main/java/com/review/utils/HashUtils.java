@@ -6,6 +6,7 @@ import java.security.MessageDigest;
 import java.util.List;
 
 import com.hankcs.hanlp.HanLP;
+import com.review.utils.ExceptionUtils;
 
 public class HashUtils {
     /**
