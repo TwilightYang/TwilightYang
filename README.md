@@ -29,5 +29,5 @@
 
 # 个人项目：论文查重
 
-[** 详情：我的博客 **](https://www.cnblogs.com/twilight-yang/p/18071670)
+[**详情：我的博客**](https://www.cnblogs.com/twilight-yang/p/18071670)
 
