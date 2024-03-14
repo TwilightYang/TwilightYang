@@ -9,9 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="README">
+    <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="jar包">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/review/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,31 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/desktop/Software/TwilightYang/3222004727/paper/target",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "工件",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/App/jprofiler11/jprofiler11/bin/jprofiler.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;jprofiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.review.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR 应用程序.paper-1.0-SNAPSHOT-jar-with-dependencies.jar">
+  <component name="RunManager" selected="JAR 应用程序.paper-1.0-SNAPSHOT.jar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.Main" />
       <module name="paper" />
@@ -74,6 +73,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.review.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.review.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.review.utils.ExceptionUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,22 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.mainTestAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="paper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.review" />
-      <option name="MAIN_CLASS_NAME" value="com.review.MainTest" />
-      <option name="METHOD_NAME" value="mainTestAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="paper-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/target/paper-1.0-SNAPSHOT-jar-with-dependencies.jar" />
       <method v="2" />
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR 应用程序.paper-1.0-SNAPSHOT-jar-with-dependencies.jar" />
         <item itemvalue="JAR 应用程序.paper-1.0-SNAPSHOT.jar" />
-        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JAR 应用程序.paper-1.0-SNAPSHOT-jar-with-dependencies.jar" />
         <item itemvalue="应用程序.Main" />
-        <item itemvalue="JUnit.MainTest.mainTestAll" />
+        <item itemvalue="JUnit.ExceptionUtilsTest" />
+        <item itemvalue="JUnit.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +140,7 @@
       <workItem from="1710309059654" duration="2477000" />
       <workItem from="1710311649956" duration="6884000" />
       <workItem from="1710325931205" duration="154000" />
-      <workItem from="1710330641610" duration="14860000" />
+      <workItem from="1710330641610" duration="20529000" />
     </task>
     <task id="LOCAL-00001" summary="源文件">
       <created>1710309242220</created>
@@ -165,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710339484013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jar包">
+      <created>1710355151003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710355151003</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +180,12 @@
     <MESSAGE value="源文件" />
     <MESSAGE value="测试文件，修改函数" />
     <MESSAGE value="README" />
-    <option name="LAST_COMMIT_MESSAGE" value="README" />
+    <MESSAGE value="jar包" />
+    <option name="LAST_COMMIT_MESSAGE" value="jar包" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/paper$TxtUtilsTest.ic" NAME="TxtUtilsTest 覆盖结果" MODIFIED="1710319451207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -188,6 +198,9 @@
       <FILTER>com.review.utils.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/paper$MainTest_mainTestAll.ic" NAME="MainTest.mainTestAll 覆盖结果" MODIFIED="1710330953988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.review.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/paper$Main.ic" NAME="Main 覆盖结果" MODIFIED="1710356506607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.review.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/paper$HashUtilsTest.ic" NAME="HashUtilsTest 覆盖结果" MODIFIED="1710321065118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
