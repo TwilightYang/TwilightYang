@@ -9,9 +9,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="jar包">
+    <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="修改">
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/calculate/CalculateStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/calculate/TitleAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/utils/CheckUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/utils/MathProduceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/resources/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/resources/exercise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/main/resources/grade.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/calculate/CalculateStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/calculate/TitleAnswerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/utils/CheckUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/utils/MathProduceUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/test/resources/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../operation/src/test/resources/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/review/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/review/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +67,7 @@
     &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;jprofiler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,7 +76,7 @@
       <recent name="com.review.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR 应用程序.paper-1.0-SNAPSHOT.jar">
+  <component name="RunManager" selected="JAR 应用程序.paper-1.0-SNAPSHOT-jar-with-dependencies.jar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.review.Main" />
       <module name="paper" />
@@ -117,9 +130,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR 应用程序.paper-1.0-SNAPSHOT.jar" />
-        <item itemvalue="JAR 应用程序.paper-1.0-SNAPSHOT-jar-with-dependencies.jar" />
-        <item itemvalue="应用程序.Main" />
         <item itemvalue="JUnit.ExceptionUtilsTest" />
         <item itemvalue="JUnit.MainTest" />
       </list>
@@ -141,6 +151,12 @@
       <workItem from="1710311649956" duration="6884000" />
       <workItem from="1710325931205" duration="154000" />
       <workItem from="1710330641610" duration="20529000" />
+      <workItem from="1710380759600" duration="527000" />
+      <workItem from="1710407379983" duration="163000" />
+      <workItem from="1710407550834" duration="209000" />
+      <workItem from="1710432250520" duration="18000" />
+      <workItem from="1710847851003" duration="16000" />
+      <workItem from="1711386567881" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="源文件">
       <created>1710309242220</created>
@@ -170,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710355151003</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改">
+      <created>1710380823541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710380823541</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +204,8 @@
     <MESSAGE value="测试文件，修改函数" />
     <MESSAGE value="README" />
     <MESSAGE value="jar包" />
-    <option name="LAST_COMMIT_MESSAGE" value="jar包" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
