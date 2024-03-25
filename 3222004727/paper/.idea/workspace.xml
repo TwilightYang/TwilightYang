@@ -10,20 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="433466ed-6ec5-45be-ba6c-315b92ff2816" name="更改" comment="修改">
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/calculate/CalculateStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/calculate/TitleAnswer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/utils/CheckUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/java/com/rank/utils/MathProduceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/resources/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/resources/exercise.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/main/resources/grade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/calculate/CalculateStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/calculate/TitleAnswerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/utils/CheckUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/test/java/com/rank/utils/MathProduceUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/test/resources/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../operation/src/test/resources/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +142,7 @@
       <workItem from="1710407550834" duration="209000" />
       <workItem from="1710432250520" duration="18000" />
       <workItem from="1710847851003" duration="16000" />
-      <workItem from="1711386567881" duration="611000" />
+      <workItem from="1711386567881" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="源文件">
       <created>1710309242220</created>

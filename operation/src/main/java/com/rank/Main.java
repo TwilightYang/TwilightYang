@@ -23,7 +23,7 @@ public class Main {
 
         List<TitleAnswer> titleAnswer = MathProduceUtils.produceMaths(n,r);
         int count = (int) titleAnswer.stream().count();
-        System.out.println("生成的题目数为：" + count);
+//        System.out.println("生成的题目数为：" + count);
         // 将题目按序号写入文件
         try (FileWriter fileWriter = new FileWriter("src/main/resources/exercise.txt");
              PrintWriter printWriter = new PrintWriter(fileWriter)) {
